@@ -1,3 +1,3 @@
 # Demo
 1st github repo
-- Neha Singh
+- Neha Singh Chaurasia
